@@ -23,7 +23,7 @@ Of course, I'll keep on updating this summary as I augment and add to my skill-s
 
 ## 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/leonrichcy/"><img align="left" src="https://github.com/leonrichcy/Solomon-Leon-Johnson-/blob/main/linkedin.svg" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
-<a href="https://m.facebook.com/solomonleonjohnson/"><img align="left" src="https://raw.githubusercontent.com/Leonrichcy/Leonrichcy/main/facebook.svg" alt="Solomon Leon Johnson | Facebook" width="40px"/></a>
+<a href="https://raw.githubusercontent.com/leonrichcy/Solomon-Leon-Johnson-/main/facebook.svg/"><img align="left" src="https://raw.githubusercontent.com/Leonrichcy/Leonrichcy/main/facebook.svg" alt="Solomon Leon Johnson | Facebook" width="40px"/></a>
 <a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/Leonrichcy/Leonrichcy/main/whatsapp2.png" alt="Solomon Leon Johnson | WhatsApp" width="40px"/></a>
 <a href="https://www.instagram.com/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/Leonrichcy/Leonrichcy/main/instagram.svg" alt="Solomon Leon Johnson | Instagram" width="40px"/></a>
 <a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/Leonrichcy/Leonrichcy/main/twitter.svg" alt="Solomon Leon Johnson | Twitter" width="40px"/></a>
