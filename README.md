@@ -12,13 +12,13 @@ I've **recently** began my software engineering career at *ALX School of Softwar
 
 Of course, I'll keep on updating this summary as I augment and add to my skill-sets in Tech!
 
-![](https://komarev.com/ghpvc/?username=Leon)
+![](https://komarev.com/ghpvc/?username=Leonrichcy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon&show_icons=true&theme=highcontrast)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TosinISOGUN&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leon&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
 
 
 ## 🤝 Connect With Me
@@ -28,7 +28,7 @@ Of course, I'll keep on updating this summary as I augment and add to my skill-s
 <a href="https://www.instagram.com/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Solomon Leon Johnson | Instagram" width="40px"/></a>
 <a href="https://mobile.twitter.com/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Solomon Leon Johnson | Twitter" width="40px"/></a>
 
-<!--
+
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2500&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Oluwatomisin+Isogun." alt="Typing SVG" /></a> </p>
 
 <a href="https://www.instagram.com/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Solomon Leon Johnson | Instagram" width="40px"/></a>
@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
