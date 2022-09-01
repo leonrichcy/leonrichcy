@@ -301,7 +301,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Digital Business Developer. I work with businesses and organisation,</text>
-    <text x="15" y="50">Am also a Certified E/text>
+    <text x="15" y="50">Am also a Certified Ethical Hacker/text>
   </g>
 
   <!-- typing 4 -->
@@ -376,6 +376,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Wednesday! <tspan class="emoji">👋</tspan></text>  
+    <text x="15" y="27">Have a great day! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
