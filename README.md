@@ -12,7 +12,7 @@ I've **recently** began my software engineering career at *ALX School of Softwar
 
 Of course, I'll keep on updating this summary as I augment and add to my skill-sets in Tech!
 
-![](https://komarev.com/ghpvc/?username=Leonrichcy)
+![](https://komarev.com/ghpvc/?username=leonrichcy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon&show_icons=true&theme=highcontrast)
 
