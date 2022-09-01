@@ -12,9 +12,9 @@ I've **recently** began my software engineering career at *ALX School of Softwar
 
 Of course, I'll keep on updating this summary as I augment and add to my skill-sets in Tech!
 
-![](https://komarev.com/ghpvc/?username=TosinISOGUN)
+![](https://komarev.com/ghpvc/?username=Leon)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon&show_icons=true&theme=highcontrast)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TosinISOGUN&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
