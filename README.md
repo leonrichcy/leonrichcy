@@ -14,11 +14,11 @@ Of course, I'll keep on updating this summary as I augment and add to my skill-s
 
 ![](https://komarev.com/ghpvc/?username=leonrichcy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonrichcy&show_icons=true&theme=highcontrast)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leon&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leonrichcy&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon&theme=highcontrast&layout=compact)](https://github.com/Leonrichcy/github-readme-stats)
 
 
 ## 🤝 Connect With Me
